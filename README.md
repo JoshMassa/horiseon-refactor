@@ -2,7 +2,7 @@
 
 ## Description
 
-During this project I restructured the Horiseon website to be more accessible to a wider range of users without changing the original functionality. The goal of this project was to make the code easier to read, understand, and edit in the future. I achieved this by implementing semantic HTML, placing the code in an order tha makes sense, as well as adding comments to both the HTML and CSS code to explain the functionality of the different code blocks. This project helped me achieve a better understanding of refactoring code using semantic HTML while also providing me with more experience writing "attractive" looking code that logically makes more sense.
+During this project I restructured the Horiseon website to be more accessible to a wider range of users without changing the original functionality. The goal of this project was to increase accessibility by making the code easier to read, understand, and edit in the future. I achieved this by implementing semantic HTML, placing the code in a logical order, as well as adding comments to both the HTML and CSS code to explain the functionality of the different code blocks. This project helped me achieve a better understanding of refactoring code using semantic HTML while also providing me with more experience writing "attractive" looking code that makes more sense.
 
 ## Usage
 
