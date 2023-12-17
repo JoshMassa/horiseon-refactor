@@ -6,6 +6,9 @@ During this project I restructured the Horiseon website to be more accessible to
 
 ## Usage
 
+To view this webpage, please visit https://joshmassa.github.io/horiseon-refactor
+
+![alt text](assets/images/horiseon-webpage-ss.png)
 
 
 Provide instructions and examples for use. Include screenshots as needed.
